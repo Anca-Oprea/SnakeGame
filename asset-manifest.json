@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/Anca-Oprea/SnakeGame.git/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Anca-Oprea/SnakeGame.git/static/js/main.d7ff6919.chunk.js",
-    "main.js.map": "/Anca-Oprea/SnakeGame.git/static/js/main.d7ff6919.chunk.js.map",
+    "main.js": "/Anca-Oprea/SnakeGame.git/static/js/main.8cdf6859.chunk.js",
+    "main.js.map": "/Anca-Oprea/SnakeGame.git/static/js/main.8cdf6859.chunk.js.map",
     "runtime-main.js": "/Anca-Oprea/SnakeGame.git/static/js/runtime-main.63194ed7.js",
     "runtime-main.js.map": "/Anca-Oprea/SnakeGame.git/static/js/runtime-main.63194ed7.js.map",
     "static/js/2.1bb91026.chunk.js": "/Anca-Oprea/SnakeGame.git/static/js/2.1bb91026.chunk.js",
     "static/js/2.1bb91026.chunk.js.map": "/Anca-Oprea/SnakeGame.git/static/js/2.1bb91026.chunk.js.map",
     "index.html": "/Anca-Oprea/SnakeGame.git/index.html",
-    "precache-manifest.42b0bed4aa05790cf1734dc63b6bfc0b.js": "/Anca-Oprea/SnakeGame.git/precache-manifest.42b0bed4aa05790cf1734dc63b6bfc0b.js",
+    "precache-manifest.ecc863e11c929c5973a9dc063e5d7f2a.js": "/Anca-Oprea/SnakeGame.git/precache-manifest.ecc863e11c929c5973a9dc063e5d7f2a.js",
     "service-worker.js": "/Anca-Oprea/SnakeGame.git/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Anca-Oprea/SnakeGame.git/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/Anca-Oprea/SnakeGame.git/static/media/logo.25bf045c.svg"
+    "static/css/main.b100e6da.chunk.css.map": "/Anca-Oprea/SnakeGame.git/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.63194ed7.js",
     "static/js/2.1bb91026.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.d7ff6919.chunk.js"
+    "static/js/main.8cdf6859.chunk.js"
   ]
 }
